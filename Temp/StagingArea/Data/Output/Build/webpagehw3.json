@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "cmpm163-asg3",
+"dataUrl": "webpagehw3.data.unityweb",
+"wasmCodeUrl": "webpagehw3.wasm.code.unityweb",
+"wasmFrameworkUrl": "webpagehw3.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
