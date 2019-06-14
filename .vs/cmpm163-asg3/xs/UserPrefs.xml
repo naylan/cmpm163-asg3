@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E4E46F15-37B5-C532-7CD8-BDFC60EFCA67}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ParticleScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ParticleScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/AudioPeer.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cmpm163-asg3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ParticleScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9d65f19c-3b64-4be0-b014-a51d9805aba4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
